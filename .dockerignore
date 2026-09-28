@@ -1,0 +1,8 @@
+.claude
+.venv
+data/
+notebooks/
+reports/
+.git
+__pycache__
+.ipynb_checkpoints
