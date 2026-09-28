@@ -1,0 +1,4 @@
+,RMSE_avant,MAE_avant,R2_avant,RMSE_apres,MAE_apres,R2_apres
+LinearRegression,0.3271,0.2716,0.9897,0.3271,0.2716,0.9897
+RandomForest,1.0677,0.8458,0.8905,1.0633,0.8441,0.8914
+SVR,1.2176,0.9844,0.8575,0.3264,0.271,0.9898
